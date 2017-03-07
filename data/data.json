@@ -1,0 +1,9 @@
+{
+    "hello": [
+        "world"
+    ],
+    "user":{
+        "password": "second_pass",
+        "name": "betty"
+    }
+}

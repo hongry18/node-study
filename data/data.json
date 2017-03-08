@@ -1,9 +1,13 @@
 {
-    "hello": [
-        "world"
-    ],
-    "user":{
-        "password": "second_pass",
-        "name": "betty"
-    }
+	"hello": [
+		"world"
+	],
+	"user": {
+		"password": "second_pass",
+		"name": "betty"
+	},
+	"newuser": {
+		"password": "test",
+		"name": "test"
+	}
 }
